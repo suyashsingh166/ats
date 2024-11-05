@@ -180,8 +180,8 @@ public class LoginController {
                     }
                   
                   @GetMapping("test") 
-          	    public List<User> test(){
-          	    	return userService.getUsers();
+          	    public List<ApplicantData> test(){
+          	    	return applicantservice.getAllOffers();
           	    			
                   }
                   
