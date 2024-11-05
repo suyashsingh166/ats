@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ats</groupId>
 	<artifactId>ATS</artifactId>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ATS</name>
 	<description>Application Tracking System</description>
